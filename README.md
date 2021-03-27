@@ -1,4 +1,5 @@
 ### Kalkulator Sederhana (JavaScript)
+[![banner-kalkulator-js.jpg](https://i.postimg.cc/vHyvWCtm/banner-kalkulator-js.jpg)](https://postimg.cc/HjS5mZKG)
 <p align=center>
 <a href="https://tfkhdyt.web.app"><img src="https://img.shields.io/badge/Created%20by-tfkhdyt-blue?style=for-the-badge&logo=github" loading="lazy"/></a><br>
 <a href="Https://facebook.com/tfkhdyt142"><img height="30" src="https://www.pinclipart.com/picdir/big/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png" loading="lazy"/></a>&nbsp;
